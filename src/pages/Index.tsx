@@ -236,7 +236,7 @@ const Index: React.FC = () => {
   return (
     <div className="min-h-screen bg-[#FAFAFA]">
       <Helmet>
-        <title>Diligence.ai - AI-Powered Procurement Platform</title>
+        <title>Diligince.ai - AI-Powered Procurement Platform</title>
         <meta
           name="description"
           content="Streamline your procurement process with AI-powered vendor matching, requirement management, and workflow automation."
@@ -251,9 +251,9 @@ const Index: React.FC = () => {
             <div className="flex justify-between items-center h-16">
               <Link to="/" className="flex items-center space-x-2">
                 <div className="w-8 h-8 bg-[#fff] rounded-md flex items-center justify-center font-bold text-white">
-                  <img src="/logo-main-no-bg.svg" alt="Diligence.ai" />
+                  <img src="/logo-main-no-bg.svg" alt="Diligince.ai" />
                 </div>
-                <span className="text-xl font-bold text-[#1A2A4F]">Diligence.ai</span>
+                <span className="text-xl font-bold text-[#1A2A4F]">Diligince.ai</span>
               </Link>
               <div className="flex items-center space-x-6">
                 {/* Navigation Menu */}
@@ -352,7 +352,7 @@ const Index: React.FC = () => {
               <h1 className="text-5xl md:text-6xl font-bold mb-6 leading-tight">
                 Streamline Requirements,
                 <span className="block text-[#bfdbfe]">Connect Expertise</span>
-                <span className="block text-4xl md:text-5xl">with Diligence's</span>
+                <span className="block text-4xl md:text-5xl">with Diligince's</span>
                 <span className="block text-[#bfdbfe]">Powerful AI Platform</span>
               </h1>
 
@@ -388,7 +388,7 @@ const Index: React.FC = () => {
                       <div className="w-3 h-3 bg-yellow-400 rounded-full"></div>
                       <div className="w-3 h-3 bg-green-400 rounded-full"></div>
                     </div>
-                    <span className="text-sm font-medium text-white-600">Diligence.AI Dashboard</span>
+                    <span className="text-sm font-medium text-white-600">Diligince.AI Dashboard</span>
                   </div>
 
                   <div className="space-y-4">
@@ -474,7 +474,7 @@ const Index: React.FC = () => {
               <span className="text-sm font-medium text-[#2F80ED]">AI-Powered Features</span>
             </div>
             <h2 className="text-4xl md:text-5xl font-bold text-[#333333] mb-4">
-              Why Choose <span className="text-[#2F80ED]">Diligence.ai</span>?
+              Why Choose <span className="text-[#2F80ED]">Diligince.ai</span>?
             </h2>
             <p className="text-[#828282] text-lg max-w-2xl mx-auto">
               Experience the power of artificial intelligence in business connections with our comprehensive platform
@@ -711,7 +711,7 @@ const Index: React.FC = () => {
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <div className="inline-flex items-center space-x-2 bg-white/10 backdrop-blur-sm border border-white/20 rounded-full px-4 py-2 mb-6">
             <div className="w-2 h-2 bg-[#27AE60] rounded-full animate-pulse"></div>
-            <span className="text-sm font-medium text-white">Join In Diligence Businesses Hub</span>
+            <span className="text-sm font-medium text-white">Join In Diligince Businesses Hub</span>
           </div>
 
           <h2 className="text-5xl md:text-6xl font-bold text-white mb-6 leading-tight">
@@ -719,7 +719,7 @@ const Index: React.FC = () => {
             <span className="block text-[#F2994A]">Business with AI?</span>
           </h2>
           <p className="text-xl text-blue-100 mb-10 max-w-3xl mx-auto leading-relaxed">
-            Join thousands of successful businesses already using Diligence.ai's intelligent platform to streamline
+            Join thousands of successful businesses already using Diligince.ai's intelligent platform to streamline
             operations, connect with qualified professionals, and accelerate growth through AI-powered insights.
           </p>
           <div className="flex flex-col sm:flex-row gap-6 justify-center">
@@ -910,9 +910,9 @@ const Index: React.FC = () => {
             <div className="col-span-2">
               <div className="flex items-center space-x-2 mb-4">
                 <div className="w-10 h-10 bg-[#fff] rounded-lg flex items-center justify-center font-bold text-white">
-                <img src="/logo-main-no-bg.svg" alt="Diligence.ai" />
+                <img src="/logo-main-no-bg.svg" alt="Diligince.ai" />
                 </div>
-                <span className="text-2xl font-bold">Diligence.ai</span>
+                <span className="text-2xl font-bold">Diligince.ai</span>
               </div>
               <p className="text-gray-300 mb-4">
                 Connecting industries, professionals, and vendors through intelligent business solutions for accelerated
@@ -979,7 +979,7 @@ const Index: React.FC = () => {
             </div>
           </div>
           <div className="border-t border-gray-600 mt-8 pt-8 text-center text-gray-300">
-            <p>© 2025 Diligence.ai. All rights reserved. | Privacy Policy | Terms of Service</p>
+            <p>© 2025 Diligince.ai. All rights reserved. | Privacy Policy | Terms of Service</p>
           </div>
         </div>
       </footer>

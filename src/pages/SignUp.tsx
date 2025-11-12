@@ -13,7 +13,7 @@ const SignUp: React.FC = () => {
     title: "Join the Industrial Revolution",
     description:
       "Sign up to unlock AI-powered services tailored for industrial excellence",
-    imageSrc: "/Diligence-no-bg-white.svg",
+    imageSrc: "/Diligince-no-bg-white.svg",
     imageAlt: "Industrial Professional",
   };
 
